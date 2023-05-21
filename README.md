@@ -5,7 +5,7 @@
 <p>Here, you can also find my projects using templates and first real portfolio-projects.</p>
 <hr>
 <p>I am looking forward to develop my skills and to become an excellent specialist in the IT domain, knowing numerous number of computer languages.</p>
-<p>I am already a multi linguist who speaks 6+ languages 🥰, cause languages have always been my strongest passion. The same is with computers.💻❤</p>
+<p>I am a multi linguist who speaks 6+ languages 🥰 cause languages have always been my strongest passion. The same is with computers.💻❤</p>
 
 Computer Languages: 
 
