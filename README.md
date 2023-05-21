@@ -15,5 +15,7 @@ Computer Languages:
 <img src="https://img.icons8.com/?size=96&id=PXTY4q2Sq2lG&format=png" style="height: 70px">
 <img src="https://img.icons8.com/?size=128&id=59927&format=png" style="height: 70px"></p>
 
+You can check my portfolios here: 
+https://github.com/tatyanakoroleva00/portfolios
 
 
