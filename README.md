@@ -18,4 +18,7 @@ Computer Languages:
 You can check my portfolios here: 
 https://github.com/tatyanakoroleva00/portfolios
 
+To contact me: 
+tatyanakoroleva00@mail.ru
+
 
