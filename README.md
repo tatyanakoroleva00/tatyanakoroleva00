@@ -10,6 +10,7 @@
 You can check my newest portfolios here: 
 1. PORTFOLIO PAGE + PROJECTS website http://a0855504.xsph.ru/#en OR https://github.com/tatyanakoroleva00/final_project
 2. CALCULATOR (ALGORYTHMES): https://tatyanakoroleva00.github.io/  OR github code: https://github.com/tatyanakoroleva00/tatyanakoroleva00.github.io
+3. REACT (mini-project): https://drive.google.com/drive/folders/1MU4xRZJRLLNSZhjH21YVD98hM1fzACfc?usp=drive_link 
    
 To contact me: 
 tatyanakoroleva00@mail.ru
