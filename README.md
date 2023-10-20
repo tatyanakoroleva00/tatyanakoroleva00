@@ -23,6 +23,8 @@ Computer Languages:
 <img src="https://img.icons8.com/?size=96&id=21278&format=png" style="height: 70px">
 <img src="https://img.icons8.com/?size=96&id=XNQU0Xcm2I9s&format=png" style="height: 70px">
 <img src="https://img.icons8.com/?size=96&id=PXTY4q2Sq2lG&format=png" style="height: 70px">
-<img src="https://img.icons8.com/?size=128&id=59927&format=png" style="height: 70px"></p>
+<img src="https://img.icons8.com/?size=128&id=59927&format=png" style="height: 70px">
+https://icons8.ru/icon/VXQrhy9fWtm1/react-a-javascript-library-for-building-user-interfaces
+</p>
 
-
+Libraries: 
