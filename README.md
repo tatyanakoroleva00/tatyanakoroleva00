@@ -24,7 +24,8 @@ Computer Languages:
 <img src="https://img.icons8.com/?size=96&id=XNQU0Xcm2I9s&format=png" style="height: 70px">
 <img src="https://img.icons8.com/?size=96&id=PXTY4q2Sq2lG&format=png" style="height: 70px">
 <img src="https://img.icons8.com/?size=128&id=59927&format=png" style="height: 70px">
-<img src="https://github.com/tatyanakoroleva00/tatyanakoroleva00/assets/87785060/87c5aa1d-024a-4087-a929-5faa3300a9d7" style="height: 70px">
 </p>
 
 Libraries: 
+<p>
+<img src="https://github.com/tatyanakoroleva00/tatyanakoroleva00/assets/87785060/87c5aa1d-024a-4087-a929-5faa3300a9d7" style="height: 70px"></p>
