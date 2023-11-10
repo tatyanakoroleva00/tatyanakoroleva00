@@ -9,8 +9,9 @@
 
 You can check my newest portfolios here: 
 1. PORTFOLIO PAGE + PROJECTS website http://a0875795.xsph.ru/#en OR https://github.com/tatyanakoroleva00/final_project
-2. REACT (marketplace): http://a0875795.xsph.ru/ 
-3. CALCULATOR (ALGORYTHMES): https://github.com/tatyanakoroleva00/Test_task2
+2. REACT (shop): https://tatyanakoroleva00.github.io/react-project-shop/
+3. REACT (marketplace): http://a0875795.xsph.ru/ 
+4. CALCULATOR (ALGORYTHMES): https://github.com/tatyanakoroleva00/Test_task2
    
 To contact me: 
 tatyanakoroleva00@mail.ru
