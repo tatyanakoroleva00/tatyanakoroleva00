@@ -9,7 +9,7 @@
 
 You can check my newest portfolios here: 
 1. REACT (marketplace): http://a0875795.xsph.ru/  + code https://github.com/tatyanakoroleva00/Marketplace-portfolio  (mail: guest@mail.ru / password: 123)
-2. PORTFOLIO PAGE + PROJECTS website (Php, MySQL, JS) http://a0875795.xsph.ru/#en OR https://github.com/tatyanakoroleva00/final_project
+2. PORTFOLIO PAGE + PROJECTS website (Php, MySQL, JS) https://tatianakoroleva.ru/#en OR https://github.com/tatyanakoroleva00/final_project
    
 3. REACT (simple shop): https://tatyanakoroleva00.github.io/react-project-shop/ OR https://github.com/tatyanakoroleva00/react-project-shop (github code)
 4. CALCULATOR (ALGORYTHMES): https://github.com/tatyanakoroleva00/Test_task2
