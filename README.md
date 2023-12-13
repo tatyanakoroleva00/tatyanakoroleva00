@@ -30,4 +30,5 @@ Computer Languages:
 
 Libraries: 
 <p>
-<img src="https://github.com/tatyanakoroleva00/tatyanakoroleva00/assets/87785060/87c5aa1d-024a-4087-a929-5faa3300a9d7" style="height: 70px"></p>
+<img src="https://github.com/tatyanakoroleva00/tatyanakoroleva00/assets/87785060/87c5aa1d-024a-4087-a929-5faa3300a9d7" style="height: 70px">
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" style="height: 70px"></p>
