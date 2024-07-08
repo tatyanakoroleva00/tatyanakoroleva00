@@ -23,9 +23,10 @@ Computer Languages:
 
 <p><img src="https://github.com/tatyanakoroleva00/tatyanakoroleva00/assets/87785060/75401657-6e8a-419c-a50e-155bc43d919d" style="height: 70px">
 <img src="https://img.icons8.com/?size=96&id=21278&format=png" style="height: 70px">
+<img src="https://img.icons8.com/?size=128&id=59927&format=png" style="height: 70px">
 <img src="https://img.icons8.com/?size=96&id=XNQU0Xcm2I9s&format=png" style="height: 70px">
 <img src="https://img.icons8.com/?size=96&id=PXTY4q2Sq2lG&format=png" style="height: 70px">
-<img src="https://img.icons8.com/?size=128&id=59927&format=png" style="height: 70px">
+
 </p>
 
 Libraries: 
