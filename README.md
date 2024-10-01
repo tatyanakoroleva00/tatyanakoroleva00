@@ -38,6 +38,5 @@ Libraries:
 </p>
 
 CMS: 
-<p>
-   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M356 241.8l36.7 23.7V480l-133-83.8L356 241.8zM440 75H226.3l-23 37.8 153.5 96.5L440 75zm-89 142.8L55.2 32v214.5l46 29L351 217.8zM97 294.2L8 437h213.7l125-200.5L97 294.2z"/></svg>
+<p><svg height="1792" viewBox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg"><path d="M1427 709l-614-386 92-151h855zm-1022 265l-184-116v-858l1183 743zm1019-135l147 95v858l-532-335zm-37-21l-500 802h-855l356-571z"/></svg>
 </p>
