@@ -32,7 +32,7 @@ Computer Languages:
 Libraries: 
 <p>
 <img src="https://github.com/tatyanakoroleva00/tatyanakoroleva00/assets/87785060/87c5aa1d-024a-4087-a929-5faa3300a9d7" style="height: 70px"/>
-<img width="50" height="70" src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jquery"/>
+<img width="70" height="70" src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jquery"/>
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" style="height: 70px"/>
 <img src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" style="height: 70px"/>
 </p>
