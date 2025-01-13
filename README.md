@@ -1,6 +1,6 @@
 # Hi there 👋
 <hr>
-<p>My name is Tatiana. I am from Moscow, Russia. 31y.o.</p>
+<p>My name is Tatiana. I am from Moscow, Russia. 32y.o.</p>
 <p>This is my github page where I share with all my studies (fullstack courses, studies alone with books, websites, online-courses). </p>
 <p>Here, you can also find my projects using templates and first real portfolio-projects.</p>
 <hr>
