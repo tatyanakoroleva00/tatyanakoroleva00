@@ -12,7 +12,7 @@ You can check my newest portfolios here:
 2. PORTFOLIO PAGE + PROJECTS website (Php, MySQL, JS) https://tatianakoroleva.ru/#en OR https://github.com/tatyanakoroleva00/final_project
    
 3. REACT (simple shop): https://tatyanakoroleva00.github.io/react-project-shop/ OR https://github.com/tatyanakoroleva00/react-project-shop (github code)
-4. CALCULATOR (ALGORYTHMES): https://github.com/tatyanakoroleva00/Test_task2
+4. CALCULATOR (ALGORYTHMS): https://github.com/tatyanakoroleva00/Test_task2
    
 To contact me: 
 tatyanakoroleva00@mail.ru
