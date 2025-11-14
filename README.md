@@ -7,10 +7,9 @@
 <p>I am looking forward to develop my skills and to become an excellent specialist in the IT domain, knowing numerous number of computer languages.</p>
 <p>I am a multi linguist who speaks 6+ languages 🥰 cause languages have always been my strongest passion. The same is with computers.💻❤</p>
 
-You can check my newest portfolios here: 
-1. REACT (marketplace): http://a0875795.xsph.ru/  + code https://github.com/tatyanakoroleva00/Marketplace-portfolio  (mail: guest@mail.ru / password: 123)
-2. PORTFOLIO PAGE + PROJECTS website (Php, MySQL, JS) https://tatianakoroleva.ru/#en OR https://github.com/tatyanakoroleva00/final_project
-   
+You can check my newest portfolios here: (before 2024 year)
+1. REACT (marketplace): https://github.com/tatyanakoroleva00/Marketplace-portfolio  (mail: guest@mail.ru / password: 123)
+2. PORTFOLIO PAGE + PROJECTS website (Php, MySQL, JS) https://github.com/tatyanakoroleva00/final_project
 3. REACT (simple shop): https://tatyanakoroleva00.github.io/react-project-shop/ OR https://github.com/tatyanakoroleva00/react-project-shop (github code)
 4. CALCULATOR (ALGORYTHMS): https://github.com/tatyanakoroleva00/Test_task2
    
