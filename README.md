@@ -29,6 +29,7 @@ Computer Languages:
 </p>
 Libraries: 
 <p>
+<img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/4593e475-5a66-4095-a6d2-0b63187d5366" title="laravel"/>
 <img src="https://github.com/tatyanakoroleva00/tatyanakoroleva00/assets/87785060/87c5aa1d-024a-4087-a929-5faa3300a9d7" style="height: 70px" title="react"/>
 <img width="70" height="70" src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jquery" title="jquery"/>
 </p>
