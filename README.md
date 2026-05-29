@@ -1,13 +1,24 @@
 # Hi there 👋
 <hr>
 <p>My name is Tatiana. I am from Moscow, Russia. 33y.o.</p>
-<p>This is my github page where I share with all my studies (fullstack courses, studies alone with books, websites, online-courses). </p>
-<p>Here, you can also find my projects using templates and first real portfolio-projects.</p>
-<hr>
+
 <p>I am looking forward to develop my skills and to become an excellent specialist in the IT domain, knowing numerous number of computer languages.</p>
 <p>I am a multi linguist who speaks 6+ languages 🥰 cause languages have always been my strongest passion. The same is with computers.💻❤</p>
 
-You can check my newest portfolios here: (before 2024 year)
+Updates (29/05/26)
+I posted my first project here in 2023. Today is 2026. And I have a 2.5y experience as a fullstack dev by this moment. 
+I started as a fullstack dev mostly in frontend (react, mobx + laravel)
+These days, I am mostly in backend (php, laravel).
+
+<hr />
+
+Previous info:
+
+<p>This is my github page where I share with all my studies (fullstack courses, studies alone with books, websites, online-courses). </p>
+<p>Here, you can also find my projects using templates and first real portfolio-projects.</p>
+<hr>
+
+You can check my first portfolios here: (before 2024 year)
 1. REACT (marketplace): https://github.com/tatyanakoroleva00/Marketplace-portfolio  (mail: guest@mail.ru / password: 123)
 2. PORTFOLIO PAGE + PROJECTS website (Php, MySQL, JS) https://github.com/tatyanakoroleva00/final_project
 3. REACT (simple shop): https://tatyanakoroleva00.github.io/react-project-shop/ OR https://github.com/tatyanakoroleva00/react-project-shop (github code)
