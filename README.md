@@ -5,10 +5,14 @@
 <p>I am looking forward to develop my skills and to become an excellent specialist in the IT domain, knowing numerous number of computer languages.</p>
 <p>I am a multi linguist who speaks 6+ languages 🥰 cause languages have always been my strongest passion. The same is with computers.💻❤</p>
 
-Updates (29/05/26)
-I posted my first project here in 2023. Today is 2026. And I have a 2.5y experience as a fullstack dev by this moment. 
-I started as a fullstack dev mostly in frontend (react, mobx + laravel)
-These days, I am mostly in backend (php, laravel).
+Updates (29/05/26) <br />
+By this moment, I have a 2.5y experience as a fullstack dev. 
+I started in a company as a fullstack dev, working mostly with frontend (react, mobx + laravel)
+These days, I work mostly with backend (php, laravel).
+
+BIO:
+I started my studies in May, 2022 anew.  
+I posted my first project here in 2023. 
 
 <hr />
 
